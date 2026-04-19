@@ -23,3 +23,5 @@ lending/*.lock
 dist/
 out/
 .next/
+
+.claude/
